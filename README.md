@@ -13,7 +13,11 @@
 ## 🛠️ Tech Stack
 
 - **Frontend:** HTML, CSS, JavaScript  
-- **API:** OpenWeatherMap API (or any other weather API used)  
+- **API:** OpenWeatherMap API (or any other weather API used)
+
+  ### 🌤 Weather Web App UI  
+![Weather App](https://github.com/rahulpatel51/Cloud-Point-/blob/main/Weather.png)  
+
 
 ## 📌 Setup & Installation
 
