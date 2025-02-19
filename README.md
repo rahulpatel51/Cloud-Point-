@@ -19,5 +19,5 @@
 
 1. **Clone the Repository**  
    ```sh
-   git clone https://github.com/yourusername/cloud-point.git
+   git clone https://github.com/rahulpatel51/Cloud-Point-.git
    cd cloud-point
